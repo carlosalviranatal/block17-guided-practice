@@ -45,3 +45,5 @@ const garageSale = [
     condition: "used",
   },
 ];
+
+module.exports = garageSale
